@@ -88,6 +88,10 @@ h2 {
     background-color: var(--highlight-color);
     color: white;
 }
+#event-button {
+    
+    
+}
 /* Game library cards */
 
 #new-games .card,

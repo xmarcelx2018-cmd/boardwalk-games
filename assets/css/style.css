@@ -88,6 +88,9 @@ h2 {
   background-color: var(--highlight-color);
   color: white;
 }
+.labels {
+  padding-bottom: 7px;
+}
 
 /* Game library cards */
 
